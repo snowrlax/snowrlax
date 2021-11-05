@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **DevOps & Game Development**
 
-- 👯 I’m looking to collaborate on **games made with javascript**
+- 👯 I’m looking to collaborate on **Open source projects**
 
 - 💬 Ask me about **anything**
 
-- 📫 How to reach me **sonawanepranav19@gmail.com**
+- 📫 Reach me at **sonawanepranav19@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
