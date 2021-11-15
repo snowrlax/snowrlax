@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pranav</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranv-sonawane&label=Profile%20views&color=0e75b6&style=flat" alt="pranv-sonawane" /> </p>
 
-- 🌱 I’m currently learning **DevOps & Game Development**
+- 🌱 I’m currently learning **Data Structures**
 
 - 👯 I’m looking to collaborate on **Open source projects**
 
-- 💬 Ask me about **anything**
+- 💬 Ask me about **Java**
 
 - 📫 Reach me at **sonawanepranav19@gmail.com**
 
