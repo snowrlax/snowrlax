@@ -1,7 +1,7 @@
 <h1 align="center">Greetings 👋, I'm Pranav</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranv-sonawane&label=Profile%20views&color=0e75b6&style=flat" alt="pranv-sonawane" /> </p>
 
-- 🌱 I’m currently learning **Data Structures, AI/ML**
+- 🌱 I’m currently learning **Data Structures, Docker**
 
 - 📫 Reach Me at **sonawanepranav19@gmail.com**
 
