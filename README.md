@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Pranav Sonawane
 
-**Full-Stack Developer | Backend-Focused | AI + Web Enthusiast**  
+**Full-Stack Developer | AI + Web Enthusiast**  
 📍 Pune, Maharashtra  
 📧 sonawanepranav19@gmail.com  
 
