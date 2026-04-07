@@ -31,7 +31,6 @@ I also enjoy integrating AI capabilities into applications to automate workflows
 - MongoDB  
 - Prisma ORM  
 - Cloudflare Workers  
-- Serverless Architecture  
 
 ### **Frontend**
 - React  
