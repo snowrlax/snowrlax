@@ -40,7 +40,7 @@ stack/
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=snowrlax&hide_border=true&background=0D1117&ring=39D353&fire=39D353&currStreakLabel=39D353&currStreakNum=39D353&sideNums=39D353&sideLabels=26A641&dates=6E7681" alt="GitHub streak" height="165" />
   <br><br>
-  <img src="https://ghchart.rshah.org/39D353/snowrlax" alt="Contribution graph" width="760" />
+  <img src="assets/contributions.svg" alt="Contribution graph" width="760" />
 </div>
 
 ## `$ connect --with pranav`
