@@ -38,8 +38,9 @@ stack/
 ## `$ git log --stat`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=snowrlax&show_icons=true&hide_border=true&bg_color=1B1A19&title_color=D97757&icon_color=D97757&text_color=E8E6E3&ring_color=D97757" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snowrlax&layout=compact&hide_border=true&bg_color=1B1A19&title_color=D97757&text_color=E8E6E3" alt="Top languages" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=snowrlax&hide_border=true&background=1B1A19&ring=D97757&fire=D97757&currStreakLabel=D97757&sideLabels=E8E6E3&currStreakNum=E8E6E3&sideNums=E8E6E3&dates=9B9A97" alt="GitHub streak" height="165" />
+  <br><br>
+  <img src="https://ghchart.rshah.org/D97757/snowrlax" alt="Contribution graph" width="760" />
 </div>
 
 ## `$ connect --with pranav`
