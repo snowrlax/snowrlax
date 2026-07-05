@@ -1,62 +1,58 @@
-# 👋 Hi, I'm Pranav Sonawane
+<div align="center">
+  <img src="assets/terminal.svg" alt="pranav@snowrlax — animated terminal intro" width="760" />
+</div>
 
-**Full-Stack Developer | AI + Web Enthusiast**  
-📍 Pune, Maharashtra  
-📧 sonawanepranav19@gmail.com  
+<br>
 
----
+## `$ whoami`
 
-## 🧠 About Me
-I'm a backend-focused developer who enjoys building scalable, reliable, and high-performance systems.  
-My work revolves around designing clean APIs, optimizing server-side logic, and working with modern backend frameworks.  
-I also enjoy integrating AI capabilities into applications to automate workflows and enhance user experience.
+```console
+pranav@snowrlax:~$ whoami
+Backend-focused engineer building AI agent systems that actually ship.
+2 yrs of production experience — agentic RAG chatbots, MCP servers,
+LLM pipelines behind FastAPI microservices. I like clean APIs,
+fast retrieval, and owning things end-to-end.
+```
 
----
+## `$ tree ~/stack`
 
-## 🧰 Tech Stack
+```console
+pranav@snowrlax:~$ tree ~/stack -L 1
+stack/
+├── languages/   python · typescript · java · sql
+├── ai/          langchain · langgraph · rag · mcp-servers · chroma · huggingface
+├── backend/     fastapi · django-rest · node · express · postgres · mongodb
+├── frontend/    react · next.js · tailwind · framer-motion
+└── infra/       docker · aws · gcp · github-actions · jenkins · grafana
+```
 
-### **Languages**
-- JavaScript  
-- TypeScript  
-- Python  
-- Java  
-- SQL  
-- PHP  
+## `$ ls ~/projects`
 
-### **Backend & Databases**
-- Node.js  
-- Express.js  
-- Django  
-- Postgres  
-- MongoDB  
-- Prisma ORM  
-- Cloudflare Workers  
+| | | |
+|---|---|---|
+| [`awesome-langgraphjs/`](https://github.com/snowrlax/awesome-langgraphjs) | 🦜🕸️ | Curated open-source LangGraph.js examples, projects & videos |
+| [`the-last-pawn/`](https://github.com/snowrlax/the-last-pawn) | ♟️ | Minimalist chess-inspired survival game — React · Redux · Vite |
+| [`giveittwominutes/`](https://github.com/snowrlax/giveittwominutes) | ⏱️ | Every good habit starts with 2 minutes |
+| [`buildQuick/`](https://github.com/snowrlax/buildQuick) | 🔋 | Next.js template with batteries included |
 
-### **Frontend**
-- React  
-- Next.js  
-- Tailwind CSS  
-- Shadcn UI  
-- Recoil  
-- Framer Motion  
-- GSAP  
+## `$ git log --stat`
 
-### **AI & Automation**
-- LangChain.js  
-- HuggingFace  
-- OpenAI  
-- Transformers  
-- PPXgen  
-- PDFjs  
-- DOCXjs  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=snowrlax&show_icons=true&hide_border=true&bg_color=1B1A19&title_color=D97757&icon_color=D97757&text_color=E8E6E3&ring_color=D97757" alt="GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snowrlax&layout=compact&hide_border=true&bg_color=1B1A19&title_color=D97757&text_color=E8E6E3" alt="Top languages" height="165" />
+</div>
 
-### **Tools**
-- Git / GitHub / GitLab  
-- Linux Environment  
-- Google Analytics  
+## `$ connect --with pranav`
 
----
+```console
+pranav@snowrlax:~$ connect --with pranav
+  mail  →  sonawanepranav19@gmail.com
+  web   →  https://pranavsonawane.com
+  code  →  https://github.com/snowrlax
+```
 
-## 📫 Connect With Me
-- GitHub: https://github.com/snowrlax  
-- Portfolio: https://pranavv.me
+<br>
+
+<div align="center">
+  <sub><code>✻ Brewing… (esc to interrupt)</code></sub>
+</div>
