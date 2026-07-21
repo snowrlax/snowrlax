@@ -327,13 +327,13 @@
   <rect x="648" y="34" width="11" height="11" rx="2" fill="#161B22"><title>2026-05-25: 0</title></rect>
   <rect x="648" y="48" width="11" height="11" rx="2" fill="#0E4429"><title>2026-05-26: 2</title></rect>
   <rect x="648" y="62" width="11" height="11" rx="2" fill="#0E4429"><title>2026-05-27: 1</title></rect>
-  <rect x="648" y="76" width="11" height="11" rx="2" fill="#0E4429"><title>2026-05-28: 2</title></rect>
+  <rect x="648" y="76" width="11" height="11" rx="2" fill="#006D32"><title>2026-05-28: 4</title></rect>
   <rect x="648" y="90" width="11" height="11" rx="2" fill="#161B22"><title>2026-05-29: 0</title></rect>
   <rect x="648" y="104" width="11" height="11" rx="2" fill="#161B22"><title>2026-05-30: 0</title></rect>
   <rect x="662" y="20" width="11" height="11" rx="2" fill="#161B22"><title>2026-05-31: 0</title></rect>
   <rect x="662" y="34" width="11" height="11" rx="2" fill="#006D32"><title>2026-06-01: 6</title></rect>
   <rect x="662" y="48" width="11" height="11" rx="2" fill="#0E4429"><title>2026-06-02: 3</title></rect>
-  <rect x="662" y="62" width="11" height="11" rx="2" fill="#006D32"><title>2026-06-03: 6</title></rect>
+  <rect x="662" y="62" width="11" height="11" rx="2" fill="#39D353"><title>2026-06-03: 11</title></rect>
   <rect x="662" y="76" width="11" height="11" rx="2" fill="#161B22"><title>2026-06-04: 0</title></rect>
   <rect x="662" y="90" width="11" height="11" rx="2" fill="#0E4429"><title>2026-06-05: 1</title></rect>
   <rect x="662" y="104" width="11" height="11" rx="2" fill="#161B22"><title>2026-06-06: 0</title></rect>
@@ -380,5 +380,6 @@
   <rect x="746" y="90" width="11" height="11" rx="2" fill="#006D32"><title>2026-07-17: 5</title></rect>
   <rect x="746" y="104" width="11" height="11" rx="2" fill="#0E4429"><title>2026-07-18: 1</title></rect>
   <rect x="760" y="20" width="11" height="11" rx="2" fill="#161B22"><title>2026-07-19: 0</title></rect>
-  <rect x="760" y="34" width="11" height="11" rx="2" fill="#161B22"><title>2026-07-20: 0</title></rect>
+  <rect x="760" y="34" width="11" height="11" rx="2" fill="#0E4429"><title>2026-07-20: 3</title></rect>
+  <rect x="760" y="48" width="11" height="11" rx="2" fill="#161B22"><title>2026-07-21: 0</title></rect>
 </svg>
